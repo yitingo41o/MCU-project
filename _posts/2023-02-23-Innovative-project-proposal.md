@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Innovative Project Proposal
-author: [Richard Kuo]
+author: [YITING CHIU]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
@@ -20,24 +20,22 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 藍牙遙控機器人
-![](https://github.com/rkuo2023/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
+## 自走式清潔機器人
 
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1.自動導航：這個機器人可以利用機器人導航技術來尋找需要清潔的地方，而且可以避開障礙物和不同的地形。
+2.吸塵功能：機器人配備了吸塵器，可以清除地面上的灰塵、頭髮、寵物毛髮等。
+3.拖地功能：機器人還配備了拖地墊，可以清潔地面上的污漬和水漬。
+4.自動充電：當機器人的電量不足時，它會自動返回充電站充電，直到充滿電。
+5.遠程控制：你可以通過手機應用程式或者遙控器來控制機器人的運作，選擇清潔模式和計劃清潔時間。
+
 
 ### 設計考量與相關技術
-**系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
-3. 供電方式:鋰電池
-4. 聯網方式:WiFi或BT to 手機
+1.硬體設計：這個機器人需要具有良好的機動性，包括不同地形的移動能力，以及避免碰撞的能力。它還需要配備吸塵器和拖地墊。相關技術包括機器人運動控制、碰撞偵測和吸塵器/拖地墊設計。
+2.導航和定位：機器人需要能夠在室內環境中進行準確的定位和導航，以便找到需要清潔的區域。相關技術包括機器人導航、SLAM和定位技術。
+3.遠程控制和智能化：機器人需要能夠透過智能手機應用程式或者遙控器來控制，以及具備智能語音識別等功能。相關技術包括遠程控制、人機交互和智能識別技術。
+4.電池壽命和充電技術：機器人需要擁有足夠的電
 
-**所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
