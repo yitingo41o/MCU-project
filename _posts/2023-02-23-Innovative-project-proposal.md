@@ -45,7 +45,7 @@ This homework is to propose an innovative project and describe the key features,
 
 
 ### 系統方塊圖
-
+![](https://github.com/yitingo41o/MCU-project/blob/main/images/1.png?raw=true)
 
 ---
 ### 參考範例
