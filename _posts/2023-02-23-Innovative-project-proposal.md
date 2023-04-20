@@ -21,7 +21,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## 自走式清潔機器人
-
+![](https://raw.githubusercontent.com/yitingo41o/MCU-project/main/images/800x.webp)
 ### 應用功能說明
 1.自動導航：這個機器人可以利用機器人導航技術來尋找需要清潔的地方，而且可以避開障礙物和不同的地形。
 
@@ -49,6 +49,8 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ### 參考範例
+<iframe width="1109" height="624" src="https://www.youtube.com/embed/n1RNx2L1gKM?list=TLGGDNZmcQxZLpgyMDA0MjAyMw" title="ILIFE W400 專業洗地機器人｜污水吸進去，淨水噴出來，地板超潔白！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="954" height="537" src="https://www.youtube.com/embed/d7NcoepWlyU" title="Real time reinforcement learning demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
