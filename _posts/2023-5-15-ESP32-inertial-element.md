@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESP32 IoT webserver & client
+title: ESP32 Inertial Measurement Unit (IMU)
 author: [yiting]
 category: [Lecture]
 tags: [jekyll, ai]
