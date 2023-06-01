@@ -42,6 +42,7 @@ tags: [jekyll, ai]
 
 ### 結果
 ![](https://github.com/yitingo41o/MCU-project/blob/1eef6391e94ba64b8289f69203e0bd56431492b5/images/tmp_16834447341613917225793882877909.jpg?raw=true)
+![](https://github.com/yitingo41o/MCU-project/blob/ee5b0ae0582109bd277652c327710716ddb3afd8/images/182780.jpg?raw=true)
 
 ---
 
