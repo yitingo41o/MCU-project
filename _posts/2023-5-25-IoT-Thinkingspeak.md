@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IoT Thinkspeak
-author: [chen]
+author: [yiting]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
