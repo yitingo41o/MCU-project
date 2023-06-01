@@ -1,2 +1,24 @@
+---
+layout: post
+title: ESP32 IoT webserver & client
+author: [yiting]
+category: [Lecture]
+tags: [jekyll, ai]
+---
+---
+###  系統方塊圖
+
+
+### 慣性元件程式碼
+
+
+
+
+###成果展示
 <iframe width="329" height="584" src="https://www.youtube.com/embed/MXfHoLkgoW4" title="20230511 211713" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="329" height="584" src="https://www.youtube.com/embed/DpYj8SMo1Fc" title="20230511 212420" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+---
